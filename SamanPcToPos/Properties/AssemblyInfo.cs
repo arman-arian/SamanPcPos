@@ -1,0 +1,15 @@
+﻿// Assembly SamanPcToPos, Version 2.3.0.1
+
+[assembly: System.Reflection.AssemblyTrademark("SEP PC-POS")]
+[assembly: System.Runtime.InteropServices.ComVisible(false)]
+[assembly: System.Runtime.InteropServices.Guid("54748159-17c4-46c3-a88c-e3d43b34ec3c")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright \x00a9  2011")]
+[assembly: System.Reflection.AssemblyFileVersion("2.3.0.1")]
+[assembly: System.Diagnostics.Debuggable(System.Diagnostics.DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
+[assembly: System.Runtime.CompilerServices.CompilationRelaxations(8)]
+[assembly: System.Runtime.CompilerServices.RuntimeCompatibility(WrapNonExceptionThrows = true)]
+[assembly: System.Reflection.AssemblyTitle("SEP PC-POS")]
+[assembly: System.Reflection.AssemblyDescription("")]
+[assembly: System.Reflection.AssemblyConfiguration("")]
+[assembly: System.Reflection.AssemblyCompany("Saman Electronic Payment")]
+[assembly: System.Reflection.AssemblyProduct("SEP PC-POS .NET 2 , Support: 021-84345500")]
